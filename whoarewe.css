@@ -1,0 +1,13 @@
+h1 {
+  font-family: Verdana;
+  color: orange;
+  text-align: center;
+  font-weight: bolder;
+}
+p {
+  font-size: 80%;
+}
+body {
+  background-color: darkgreen;
+  background-position: center;
+}
